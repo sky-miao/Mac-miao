@@ -1,0 +1,41 @@
+{
+  "name": "test-webpack",
+  "version": "1.0.0",
+  "description": "webpack demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sky-miao/Mac-miao.git"
+  },
+  "author": "miao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sky-miao/Mac-miao/issues"
+  },
+  "homepage": "https://github.com/sky-miao/Mac-miao#readme",
+  "devDependencies": {
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.12.1",
+    "react": "^0.13.3",
+    "react-hot-loader": "^1.3.0",
+    "react-router": "^0.13.3",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.11.0"
+  },
+  "dependencies": {
+    "antd": "^2.5.1",
+    "babel-polyfill": "^6.23.0",
+    "lodash": "^4.17.3",
+    "marx-css": "^2.0.4",
+    "react": "^15.4.1",
+    "react-redux": "^4.4.6",
+    "react-router": "^3.0.0",
+    "react-router-redux": "^4.0.7",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0"
+  }
+}
