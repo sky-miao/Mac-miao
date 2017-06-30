@@ -8,3 +8,12 @@
 ### demo6 css样式及js
 ### demo7 uglifyJsPlugin
 ### demo8 webpack-dev-server
+### demo9
+```
+Linux & Mac
+$ env DEBUG=true webpack-dev-server
+
+# Windows
+$ set DEBUG=true
+$ webpack-dev-server
+```
